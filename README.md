@@ -1,10 +1,12 @@
-# SysAdmin Weekly — Community Discussions
+# SysAdmin Weekly Github Community Discussions
 
 Welcome to the official community discussion space for **[SysAdmin Weekly](https://www.sysadminweekly.com)**.
 
 This repository exists to support thoughtful, practitioner-led conversations around the SysAdmin Weekly podcast and newsletter including episode follow-ups, real-world operational questions, tooling discussions, and broader industry topics that matter to people who actually run tech and infrastructure.
 
-## What This Is
+When you're ready to starting getting involved in the community, discussions can be found by clicking the [Discussions tab](https://github.com/ProjectRunspace/sysadmin-weekly/discussions). It is **HIGHLY RECOMMENDED** you review the [README](https://github.com/ProjectRunspace/sysadmin-weekly/blob/main/README.md) below before continuing.
+
+## What This Space Is
 
 - A place to discuss **SysAdmin Weekly podcast episodes**
 - A forum for **real SysAdmin problems and solutions**
@@ -13,7 +15,7 @@ This repository exists to support thoughtful, practitioner-led conversations aro
 
 Discussions are hosted using **GitHub Discussions** to keep things low-barrier-to-entry, asynchronous, searchable, and grounded in real-world experience.
 
-## What This Is Not
+## What This Space Is Not
 
 - Vendor support forum
 - Marketing pitch threads
