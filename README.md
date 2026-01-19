@@ -48,6 +48,10 @@ Discussions are organized into categories such as:
 
 Pick the category that best fits your post. It helps keep things usable (and searchable) over time.
 
+## Moderation
+
+Moderation decisions are made by the SysAdmin Weekly team to keep discussions constructive and practitioner-focused.
+
 ## About SysAdmin Weekly
 
 SysAdmin Weekly is a podcast and newsletter focused on infrastructure, operations, security, and the realities of modern systems administration hosted by practitioners, for practitioners.
