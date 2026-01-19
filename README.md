@@ -52,6 +52,10 @@ Pick the category that best fits your post. It helps keep things usable (and sea
 
 Moderation decisions are made by the SysAdmin Weekly team to keep discussions constructive and practitioner-focused.
 
+## A Quick Note on Security
+
+**NOTE:** Links are shared by community members. While we'd like to believe no malicious link-drops will happen and that GitHub's built-in link scanning will catch everything, please use normal professional judgment before clicking or running anything, just like you would with any other code repository.
+
 ## About SysAdmin Weekly
 
 SysAdmin Weekly is a podcast and newsletter focused on infrastructure, operations, security, and the realities of modern systems administration hosted by practitioners, for practitioners.
