@@ -6,6 +6,10 @@ This repository exists to support thoughtful, practitioner-led conversations aro
 
 When you're ready to starting getting involved in the community, discussions can be found by clicking the [Discussions tab](https://github.com/ProjectRunspace/sysadmin-weekly/discussions). It is **HIGHLY RECOMMENDED** you review the [README](https://github.com/ProjectRunspace/sysadmin-weekly/blob/main/README.md) below before continuing.
 
+Also, feel free to come introduce yourself in [the introductions thread (optional)](https://github.com/ProjectRunspace/sysadmin-weekly/discussions/5)!
+
+Welcome to the community!
+
 ## What This Space Is
 
 - A place to discuss **SysAdmin Weekly podcast episodes**
